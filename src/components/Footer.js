@@ -7,7 +7,7 @@ const Box = styled.div`
     background: rgb(248, 248, 248);
     position: absolute;
     bottom: 0;
-    width: 100%;
+    width: 100 vw;
 `;
 
 const Container = styled.div`
